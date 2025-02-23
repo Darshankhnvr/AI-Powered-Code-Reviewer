@@ -19,7 +19,7 @@ Code Reviewer is a web-based application that allows users to enter code in an e
 ## Installation
 ### Prerequisites
 - Node.js installed
-- Google Gemini API Key (if required)
+- Google Gemini API Key 
 
 ### Setup Instructions
 1. **Clone the repository:**
